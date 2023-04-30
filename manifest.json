@@ -1,0 +1,17 @@
+{
+  "name":"Hello World",
+  "short_name": "Hello M8",
+  "start_url": "/index.html",
+  "id": "/index.html",
+  "display": "standalone",
+  "theme_color": "#FFE1C4",
+  "background_color": "#FFE1C4",
+  "orientation": " portrait-primary",
+  "icons": [
+    {
+      "src": "/icon.png",
+      "type": " image/png",
+      "sizes": "144x144"
+    }
+  ]
+}
